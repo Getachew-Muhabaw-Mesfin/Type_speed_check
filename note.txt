@@ -1,0 +1,6 @@
+
+ How to  update Package.json
+ 
+npm i -g npm-check-updates
+ncu -u
+npm install
